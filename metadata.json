@@ -1,0 +1,6 @@
+{
+  "name": "RoletnaPro",
+  "description": "Softver za kalkulaciju radnih naloga, generisanje ponuda i 1D optimizaciju krojenja profila za proizvođače roletni i komarnika u Bosni i Hercegovini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
